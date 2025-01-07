@@ -54,7 +54,7 @@ function App() {
           ),
         },
         {
-          path: "/saved-job",
+          path: "/saved-jobs",
           element: (
             <ProtectedRoute>
               <SavedJobs />
